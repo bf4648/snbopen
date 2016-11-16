@@ -16,3 +16,17 @@ the script should run on python (v2), and require reportlab and PIL (python-imag
 TODO
 =======
 the script is not yet full, text handling is very poor, and the background of the file is ignored.
+
+## Install on mac
+
+### Update xcode
+
+```
+xcode-select --install
+```
+
+[how-to-use-pillow](http://www.pythonforbeginners.com/gui/how-to-use-pillow)
+
+```
+brew install libtiff libjpeg webp littlecms
+```
