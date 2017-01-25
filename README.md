@@ -30,3 +30,8 @@ xcode-select --install
 ```
 brew install libtiff libjpeg webp littlecms
 ```
+
+[python-version]
+* Use python 2.7.8 to run in a virtual environment
+
+* Use snbopen-virtual-env-2.7.8 

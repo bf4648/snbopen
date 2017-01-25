@@ -1,5 +1,4 @@
-#!/usr/bin/python
-
+#!/usr/bin/env python
 
 from zipfile import ZipFile
 from xml.dom.minidom import parseString
